@@ -1,4 +1,5 @@
 # Spring Boot Development
+> An ongoing & curated collection of awesome software, libraries, learning tutorials, technical guidelines, practical tools and resources Java Spring Boot.
 
 ## What is Java Spring Boot?
 

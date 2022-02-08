@@ -160,3 +160,13 @@ $ spring init --build=gradle --java-version=1.8 --dependencies=data-jpa spring-b
 
 #### Spring Boot Book
 - https://www.manning.com/books/spring-boot-in-practice
+
+## Licenses
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Veilair](https://github.com/veilair/) has waived all copyright and related or neighboring rights to this work.
+
+[Back to top](#table-of-contents)
+

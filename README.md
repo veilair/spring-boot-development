@@ -38,11 +38,11 @@ These features work together to provide you with a tool that allows you to set u
 
 Project | Build | Description |
 ---|---|----
-[spring-boot-jdbc-example](https://github.com/stunstunstun/awesome-spring-boot/tree/master/spring-boot-jdbc-example) | Gradle | Integrating Spring Boot with JDBC
-[spring-boot-jpa-example](https://github.com/stunstunstun/awesome-spring-boot/tree/master/spring-boot-jpa-example) | Gradle | Integrating Spring Boot with JPA
-[spring-boot-mybatis-example](https://github.com/stunstunstun/awesome-spring-boot/tree/master/spring-boot-mybatis-example)| Gradle | Integrating Spring Boot with myBatis
-[spring-boot-mybatis-multi-example](https://github.com/stunstunstun/awesome-spring-boot/tree/master/spring-boot-mybatis-multi-example) | Gradle | Integrating Spring Boot with multiple datasources
-[spring-boot-mvc-example](https://github.com/stunstunstun/awesome-spring-boot/tree/master/spring-boot-mvc-example) | Gradle | Integrating Spring Boot with Spring MVC
+[spring-boot-jdbc-example](https://github.com/veilair/spring-boot-development/tree/main/spring-boot-jdbc-example) | Gradle | Integrating Spring Boot with JDBC
+[spring-boot-jpa-example](https://github.com/veilair/spring-boot-development/tree/master/spring-boot-jpa-example) | Gradle | Integrating Spring Boot with JPA
+[spring-boot-mybatis-example](https://github.com/veilair/spring-boot-development/tree/master/spring-boot-mybatis-example)| Gradle | Integrating Spring Boot with myBatis
+[spring-boot-mybatis-multi-example](https://github.com/veilair/spring-boot-development/tree/master/spring-boot-mybatis-multi-example) | Gradle | Integrating Spring Boot with multiple datasources
+[spring-boot-mvc-example](https://github.com/veilair/spring-boot-development/tree/master/spring-boot-mvc-example) | Gradle | Integrating Spring Boot with Spring MVC
 
 #### Download
 
